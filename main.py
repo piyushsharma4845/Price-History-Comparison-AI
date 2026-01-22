@@ -6,7 +6,7 @@ from scraper import fetch_amazon_price
 from matcher import generate_60_day_history, predict_future_price
 
 # --- 1. PAGE CONFIGURATION ---
-st.set_page_config(page_title="Price Intel AI", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Amazon Price Intelligence AI", page_icon="📈", layout="wide")
 
 # --- 2. CUSTOM CSS FOR DARK UI ---
 st.markdown("""
@@ -104,3 +104,4 @@ if analyze_btn:
 
 # --- 6. FOOTER ---
 st.markdown("<br><br><center><p style='color: gray;'>Developed by Piyush Sharma | CSE AI Project</p></center>", unsafe_allow_html=True)
+
