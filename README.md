@@ -18,7 +18,3 @@ An intelligent dashboard built for the **CSE AI Project** that scrapes live Amaz
 * **BeautifulSoup4** (Web Scraping)
 * **Plotly** (Visualizations)
 
-## 🚀 Installation & Local Setup
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/piyushsharma4845/YOUR_REPO_NAME.git
