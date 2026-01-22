@@ -1,7 +1,7 @@
 # 📈 Amazon Price Intelligence AI
 ### AI-Powered Price Tracking & Predictive Analysis
 
-[🚀 **Click here for Live Demo**](https://price-history-comparison-ai-04.streamlit.app/)
+[🚀 **Click here for Live Demo**](https://amazon-price-intelligence-ai04.streamlit.app/)
 
 An intelligent dashboard built for the **CSE AI Project** that scrapes live Amazon.in data and uses Machine Learning to forecast price trends.
 
